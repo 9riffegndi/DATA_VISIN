@@ -1,0 +1,6 @@
+Kode Barang,Nama Produk,Rata-Rata Penjualan harian (Unit/Hari),Standar Deviasi Penjualan (Fluktuasi Harian),Lead Time / Waktu Pengiriman dari Supplier (Hari),Stok Fisik Saat Ini di Gudang (Unit)
+E-01,Laptop Core i5,15,4,5,120
+E-02,Smartphone 5G,35,8,3,130
+E-03,Wireless Earbuds,50,12,7,420
+E-04,Smartwatch Series 7,20,5,4,75
+E-05,"Tablet Android 10""",12,3,6,110
